@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+.next/
+.svelte-kit/
+.astro/
+__pycache__/
+*.pyc
+.venv/
+.env
+db.sqlite3
